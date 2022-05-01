@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/iter-replicate",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "description": "Create an iterator which replicates each iterated value a specified number of times.",
   "license": "Apache-2.0",
   "author": {
