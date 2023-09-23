@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterReplicate from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-replicate@deno/mod.js';
+import iterReplicate from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-replicate@v0.1.0-deno/mod.js';
 ```
 
 #### iterReplicate( iterator, n )
@@ -117,7 +117,7 @@ The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-randu@deno/mod.js';
-import iterReplicate from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-replicate@deno/mod.js';
+import iterReplicate from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-replicate@v0.1.0-deno/mod.js';
 
 // Create a seeded iterator for generating pseudorandom numbers:
 var rand = randu({
